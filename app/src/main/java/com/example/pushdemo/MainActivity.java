@@ -31,8 +31,8 @@ public class MainActivity extends AppCompatActivity {
 
     Context mContext = this;
 
-    String mAppID = "6A6CF887-E6F6-4763-84B6-BEFD2410EE42";
-    String mUserId = "walter";
+    String mAppID = "YOUR APPLICATION ID";
+    String mUserId = "USER ID HERE";
 
     Button butConnect;
     TextView textMessage;
